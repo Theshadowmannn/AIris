@@ -1,0 +1,16 @@
+# Basic libraries
+python-dotenv==1.0.0
+pandas==1.5.3
+numpy==1.23.5
+requests==2.28.2
+pyyaml==6.0
+
+# RL library and dependencies
+gym==0.21.0
+stable-baselines3==1.7.0
+
+# HyperLiquid SDK
+hyperliquid==0.2.1
+
+# Logging (optional)
+loguru==0.6.0
