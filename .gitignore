@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+venv/
+.venv/
+
+# Config
+config/secrets.yaml
+
+# OS
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Other
+.env
